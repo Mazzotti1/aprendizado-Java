@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ex17",
+            "request": "launch",
+            "mainClass": "loops.ex17",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex16",
+            "request": "launch",
+            "mainClass": "loops.ex16",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex15",
+            "request": "launch",
+            "mainClass": "loops.ex15",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex14",
+            "request": "launch",
+            "mainClass": "loops.ex14",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex13",
+            "request": "launch",
+            "mainClass": "loops.ex13",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex12",
+            "request": "launch",
+            "mainClass": "loops.ex12",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex11",
+            "request": "launch",
+            "mainClass": "loops.ex11",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex10",
+            "request": "launch",
+            "mainClass": "loops.ex10",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex9",
+            "request": "launch",
+            "mainClass": "loops.ex9",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex8",
+            "request": "launch",
+            "mainClass": "loops.ex8",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex7",
+            "request": "launch",
+            "mainClass": "loops.ex7",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
             "name": "Launch ex6",
             "request": "launch",
             "mainClass": "loops.ex6",

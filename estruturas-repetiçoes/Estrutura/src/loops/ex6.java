@@ -15,5 +15,6 @@ public class ex6 {
             multiplicacao = multiplicacao * i;
         }
         System.out.println(multiplicacao);
+        scan.close();
     }
 }

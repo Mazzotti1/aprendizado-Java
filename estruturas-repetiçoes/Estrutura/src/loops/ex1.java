@@ -24,7 +24,6 @@ public class ex1 {
             System.out.println("Continua aqui...");
 
 
-
     }
 
 }
