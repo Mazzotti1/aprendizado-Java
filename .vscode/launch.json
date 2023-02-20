@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ex6",
+            "request": "launch",
+            "mainClass": "loops.ex6",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex5",
+            "request": "launch",
+            "mainClass": "loops.ex5",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex4",
+            "request": "launch",
+            "mainClass": "loops.ex4",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex3",
+            "request": "launch",
+            "mainClass": "loops.ex3",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex2",
+            "request": "launch",
+            "mainClass": "loops.ex2",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex1",
+            "request": "launch",
+            "mainClass": "loops.ex1",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio",
+            "request": "launch",
+            "mainClass": "loops.exercicio",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "aprendizado-Java_8506aa3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "aprendizado-Java_8506aa3d"
+        }
+    ]
+}
